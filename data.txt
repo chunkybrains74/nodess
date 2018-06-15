@@ -1,0 +1,230 @@
+<p>
+   Marketing and Sales Professional
+</p>
+<p>
+   <strong>RAM KUMAR</strong>
+</p>
+<p>
+   <strong>Phone:</strong> +91.0000000000<strong>Email: </strong>shri.babuji@shriresume.com<strong>LinkedIN: </strong>Linkedin.com/in/ramkumar
+</p>
+<p>
+   <strong>                                     Address:</strong> 3835 North Ashland Apt. 1G. Chicago, IL 60613
+</p>
+<p>
+   <strong>PROFILE</strong>
+</p>
+<p>
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapi-bus diam. Seed nisi. Nula quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+</p>
+<p>
+   <strong>EDUCATION</strong>
+</p>
+<p>
+   <strong>Masters, Business Administration			</strong>Graduated, July 2010<strong></strong>Symbiosis Institute of Management Studies		Marks 59%AICTE &amp; UGC Board					Division 2Pune, Maharashtra
+</p>
+<p>
+   <strong>Bachelor, Technology					</strong>Graduated, July 2008<strong></strong>Deccan College of Engineering &amp; Technology		Marks 64%Osmania University Board				Division 1Hyderabad, Telangana
+</p>
+<p>
+   <strong>10+2							</strong>Graduated, July 2004<strong></strong>DPS Bokaro						Marks 81%CBSE Board						Division 1New Delhi, Delhi
+</p>
+<p>
+   <strong>PROFESSIONAL QUALIFICATIONS AND AFFILIATIONS</strong>
+</p>
+<ul>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+</ul>
+<p>
+   <strong>CAREER HIGHLIGHTS</strong>
+</p>
+<p>
+   <strong></strong>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+</p>
+<ul>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+</ul>
+<p>
+   <strong>SKILLS</strong>
+</p>
+<ul>
+   <li>
+      Lorem ipsum
+   </li>
+   <li>
+      Ipsum dolor
+   </li>
+   <li>
+      Nulla quis sem
+   </li>
+   <li>
+      Lorem ipsum
+   </li>
+   <li>
+      Integer nec odio
+   </li>
+</ul>
+<p>
+   <strong>WORK EXPERIENCE</strong>
+</p>
+<p>
+   <strong></strong>April 2014 – Current<strong>Sales Manager</strong>Solvent Solutions Pvt LtdKolkata, West Bangal
+</p>
+<p>
+   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+</p>
+<ul>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+</ul>
+<p>
+   October 2011 – March 2014<strong>Team Leader</strong>Serena Global Pvt LtdGurgaon, Delhi-NCR
+</p>
+<p>
+   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+</p>
+<ul>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+</ul>
+<p>
+   August 2009 – October 2011<strong>Sales Assistant</strong>Tamcoj TechnologiesPimpri-Pune, Maharashtra
+</p>
+<p>
+   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+</p>
+<ul>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit.
+   </li>
+   <li>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. 
+   </li>
+</ul>
+<p>
+   <strong>COMPUTER PROFICIENCY</strong>
+</p>
+<ul>
+   <li>
+      Word 2010			
+   </li>
+   <li>
+      Excel 2010
+   </li>
+   <li>
+      Power Point 2010
+   </li>
+</ul>
+<p>
+   <strong>LANGUAGES</strong>
+</p>
+<ul>
+   <li>
+      Hindi		
+   </li>
+   <li>
+      English
+   </li>
+</ul>
+<p>
+   <strong>INTERESTS</strong>
+</p>
+<table>
+   <tr>
+      <td>
+         <ul>
+            <li>
+               Lorem ipsum dolor sit amet
+            </li>
+</ul>
+</td>
+      <td>
+         <ul>
+            <li>
+               Lorem ipsum dolor sit
+            </li>
+</ul>
+</td>
+</tr>
+   <tr>
+      <td>
+         <ul>
+            <li>
+               Lorem ipsum dolor
+            </li>
+</ul>
+</td>
+      <td>
+         <ul>
+            <li>
+               Lorem ipsum
+            </li>
+</ul>
+</td>
+</tr>
+   <tr>
+      <td>
+         <ul>
+            <li>
+               Lorem ipsum dolor sit
+            </li>
+</ul>
+</td>
+      <td></td>
+</tr>
+</table>
+<p>
+   <strong>PERSONAL DETAILS</strong>
+</p>
+<p>
+   Father’s Name:	Mr. Abhijeet Kumar		Marital Status:	SingleBirthday:	October 28, 1982		Nationality:	IndianGender:	Male
+</p>
+<p>
+   <strong>Declaration</strong>
+</p>
+<p>
+   I, Ram Kumar, hereby declare that the information contained herein is true and correct to the best of my knowledge and belief.
+</p>
+March 1, 2015
+</p>
